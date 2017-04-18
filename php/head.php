@@ -9,7 +9,6 @@
 <link rel="stylesheet" href="css/search.css">
 <!-- Font for header -->
 <link href="https://fonts.googleapis.com/css?family=Prosto+One" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>    <![endif]-->

@@ -5,9 +5,9 @@ if(defined('E_DEPRECATED')) {
 if(defined('E_DEPRECATED')) {
     error_reporting(error_reporting() & ~E_DEPRECATED);
 }
-	$database="sphider_db";
-	$mysql_user = "root";
-	$mysql_password = "password";error_reporting(E_ALL &~ E_DEPRECATED);
+	$database="kwspeedu_lab";
+	$mysql_user = "kwspeedu_lab";
+	$mysql_password = "kwspeeduplab";error_reporting(E_ALL &~ E_DEPRECATED);
 	$mysql_host = "localhost";
 	$mysql_table_prefix = "";
 

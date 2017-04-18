@@ -1,4 +1,3 @@
-
      <nav class="navbar navbar-default">
         <div class="container">
 
@@ -30,7 +29,7 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Laboratory <span class="caret"></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Laboratory <span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="dr_blay_info.html">Dr Jonathan Blay</a></li>
               <li><a href="lab_members.html">Blay Lab Team</a></li>
@@ -54,7 +53,7 @@
          <form class="navbar-form navbar-left" action="mysearch.php" method="get">
               <div class="input-group search">
                 <div class="search-wrapper">
-                    <input name="query" type="search" id="query" required class="form-control search-box" placeholder="Search Site" value="" action="include/js_suggest/suggest.php" autocomplete="on" delay="1500">
+                    <input name="query" type="search" required id="query" class="form-control search-box" placeholder="Search Site" value="" autocomplete="include/js_suggest/suggest.php">
                     <button class="close-icon" type="reset"></button>
                 </div>
                     <div class="input-group-btn">

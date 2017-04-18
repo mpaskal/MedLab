@@ -1,0 +1,108 @@
+[29-Mar-2017 11:20:37 America/Chicago] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home2/kwspeedu/public_html/lab/sphider/settings/database.php on line 14
+[29-Mar-2017 11:37:48 America/Chicago] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home2/kwspeedu/public_html/lab/sphider/settings/database.php on line 14
+[29-Mar-2017 11:37:49 America/Chicago] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home2/kwspeedu/public_html/lab/sphider/settings/database.php on line 14
+[29-Mar-2017 11:38:00 America/Chicago] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home2/kwspeedu/public_html/lab/sphider/settings/database.php on line 14
+[29-Mar-2017 11:51:36 America/Chicago] PHP Warning:  mysql_pconnect(): Unknown MySQL server host 'lab/kwspeedup.com' (0) in /home2/kwspeedu/public_html/lab/sphider/settings/database.php on line 14
+[29-Mar-2017 12:02:06 America/Chicago] PHP Notice:  Undefined offset: 2 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 47
+[29-Mar-2017 12:02:06 America/Chicago] PHP Notice:  Undefined offset: 2 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 59
+[29-Mar-2017 12:02:06 America/Chicago] PHP Notice:  Undefined offset: 2 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 65
+[29-Mar-2017 12:02:06 America/Chicago] PHP Notice:  Undefined offset: 2 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 71
+[29-Mar-2017 12:02:06 America/Chicago] PHP Notice:  Undefined offset: 2 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 77
+[29-Mar-2017 12:02:06 America/Chicago] PHP Notice:  Undefined offset: 2 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 83
+[29-Mar-2017 12:02:06 America/Chicago] PHP Warning:  Missing argument 1 for showsites(), called in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1166 and defined in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 378
+[29-Mar-2017 12:02:06 America/Chicago] PHP Notice:  Undefined variable: message in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 397
+[29-Mar-2017 12:02:06 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 607
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Undefined index: add_site in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 47
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Undefined index: add_site in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 59
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Undefined index: add_site in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 65
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Undefined index: add_site in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 71
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Undefined index: add_site in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 77
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Undefined index: add_site in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 83
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Use of undefined constant edit_site - assumed 'edit_site' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1168
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Use of undefined constant add_cat - assumed 'add_cat' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1186
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Use of undefined constant categories - assumed 'categories' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1198
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Use of undefined constant edit_cat - assumed 'edit_cat' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1201
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Use of undefined constant index - assumed 'index' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1212
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Use of undefined constant add_site - assumed 'add_site' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1222
+[29-Mar-2017 12:02:14 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 607
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 47
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 59
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 65
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 71
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 77
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 83
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined variable: cat in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1152
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined index: path in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 630
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined index: path in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1154
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined variable: site_id in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1160
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Use of undefined constant title - assumed 'title' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 428
+[29-Mar-2017 12:02:56 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 607
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Undefined offset: 20 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 47
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Undefined offset: 20 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 59
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Undefined offset: 20 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 65
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Undefined offset: 20 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 71
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Undefined offset: 20 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 77
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Undefined offset: 20 in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 83
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant edit_site - assumed 'edit_site' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1168
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant add_cat - assumed 'add_cat' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1186
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant categories - assumed 'categories' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1198
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant edit_cat - assumed 'edit_cat' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1201
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant index - assumed 'index' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1212
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant add_site - assumed 'add_site' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1222
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant clean - assumed 'clean' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1225
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant statistics - assumed 'statistics' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1240
+[29-Mar-2017 12:03:01 America/Chicago] PHP Warning:  Missing argument 2 for siteScreen(), called in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1250 and defined in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 736
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Use of undefined constant url - assumed 'url' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 741
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Undefined variable: message in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 763
+[29-Mar-2017 12:03:01 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 607
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 47
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 53
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 59
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 71
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 77
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 83
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Use of undefined constant edit_site - assumed 'edit_site' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1168
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Use of undefined constant add_cat - assumed 'add_cat' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1186
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Use of undefined constant categories - assumed 'categories' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1198
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Use of undefined constant edit_cat - assumed 'edit_cat' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1201
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Use of undefined constant index - assumed 'index' in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 1212
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index_advanced in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 700
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined variable: fullchecked in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 715
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index_advanced in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 721
+[29-Mar-2017 12:03:24 America/Chicago] PHP Notice:  Undefined index: index in /home2/kwspeedu/public_html/lab/sphider/admin/admin.php on line 607
+[29-Mar-2017 12:03:37 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:37 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:38 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 611
+[29-Mar-2017 12:03:39 America/Chicago] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home2/kwspeedu/public_html/lab/sphider/admin/spiderfuncs.php on line 612
